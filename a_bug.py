@@ -13,4 +13,3 @@ class c(a, b):
 
 c = c()
 c.fff()
-11
