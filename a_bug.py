@@ -2,7 +2,7 @@ class a:
     def fff(self):
         super(a,self).hhh()
 
-
+这是tt的提交
 class b:
     def hhh(self):
         print('a')
