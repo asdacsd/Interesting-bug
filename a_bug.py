@@ -2,7 +2,7 @@ class a:
     def fff(self):
         super(a,self).hhh()
 
-这是tt的提交
+
 class b:
     def hhh(self):
         print('a')
@@ -13,4 +13,3 @@ class c(a, b):
 
 c = c()
 c.fff()
-我在这里提交了
